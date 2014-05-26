@@ -22,7 +22,7 @@ colnames(features) <- c('label', 'desc')
 
 # Take only measurements for mean and std. dev.
 
-filter <- c(grep('mean', features$desc), grep('std', features$desc))
+filter <- c(grep('mean()', features$desc), grep('std()', features$desc))
 
 # Define function to read in either training or test data set
 
