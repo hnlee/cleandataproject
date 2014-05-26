@@ -25,6 +25,7 @@ The mean and standard deviation were estimated from these signals.
 * 'BodyAcc' indicates body linear acceleration signals from accelerometer
 * 'GravityAcc' indicates gravity linear acceleration signals from accelerometer
 * 'BodyGyro' indicates body linear acceleration signals from gyroscope
+* 'GravityGyro' indicates gravity linear acceleration signals from gyroscope
 * 'Jerk' indicates jerk signals derived from linear acceleration and angular velocity
 * 'X' indicates signal measurements along X-axis
 * 'Y' indicates signal measurements along Y-axis
